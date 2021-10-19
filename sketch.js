@@ -55,7 +55,6 @@ function setup() {
   
   blocks9 = new Block(700,95,30,40);
 
- 
   polygon = Bodies.circle(50,200,20);
   World.add(world,polygon);
   
